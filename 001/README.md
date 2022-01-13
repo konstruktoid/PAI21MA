@@ -54,8 +54,7 @@ This file and the API is documented at [http://127.0.0.1:8000/docs](http://127.0
 ### Improvements
 
 - Fetch stock information directly from trader website, instead of `stock_information.json`.
-OR
-- Fetch stock information from trader website and store in MongoDB, then fetch information from database.
+  Alternatively fetch stock information from trader website and store in MongoDB, then fetch information from database.
 
 - Draw stock price trends, price information is included in `stock_information.json` but not used.
 
@@ -63,9 +62,9 @@ OR
 
 Stock data from [https://www.avanza.se/](https://www.avanza.se/)
 
-[fastapi](https://fastapi.tiangolo.com/)
+API: [FastAPI](https://fastapi.tiangolo.com/)
 
-[streamlit](http://streamlit.io/)
+Frontend: [streamlit](http://streamlit.io/)
 
 [Market identifier codes](https://www.iso20022.org/market-identifier-codes)
 
