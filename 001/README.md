@@ -60,7 +60,7 @@ This file and the API is documented at [http://127.0.0.1:8000/docs](http://127.0
 
 ### Links
 
-Stock data from [https://www.avanza.se/](https://www.avanza.se/)
+Stock data from [Avanza](https://www.avanza.se/)
 
 API: [FastAPI](https://fastapi.tiangolo.com/)
 
